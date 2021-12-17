@@ -36,17 +36,22 @@
 ### Analysis of Outcomes Based on Goals
 
     Primero hice uso de la funcion contar si conjunto apartir de la hoja
-    kickstarter tomando la columna d que es donde estan las goals (imagen B-1) y en 
+    kickstarter tomando la columna d que es donde estan las goals y en 
     number successful, failed, canceled en base a los criterios de
-    la primera fila fui generando los filtros pertienentes(imagen B-2), para este analisis
+    la primera fila fui generando los filtros pertienentes(imagen B-1), para este analisis
     solo te tomo en cuenta la categoria plays, por lo cual no genero ningun valor 
     en la columna canceled, luego sume los totales de cada columna con la funcion sum
-    y genere los porcentajes para las columnas pertienentes(imagen B-3).
+    y genere los porcentajes para las columnas pertienentes(imagen B-2).
+    
+![](https://github.com/maadpeal/kickstarter-analysis/blob/main/resources/B-2.png) B-1
+![](https://github.com/maadpeal/kickstarter-analysis/blob/main/resources/B-3.png) B-2
 
     Una vez culminado el cuadro pude generar el grafico de lineas,
     haciendo click en insertar y luego verificando que los ejes x y 
     y estan donde deberian estar, se da por culinado este punto de creacion
-    del analisis(imagen B-4).
+    del analisis(imagen B-3).
+    
+![](https://github.com/maadpeal/kickstarter-analysis/blob/main/resources/B-4.png) B-3
 
 ### Challenges and Difficulties Encountered
 
@@ -61,10 +66,16 @@
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
     1. El mejor rango de epocas para emprender una campana de este estilo esta entre los meses de abril hasta julio(imagen C-1).
     2. La peor epoca para iniciar una campana viene en los meses de septiembre hasta enero (imagen C-2).
+
+![](https://github.com/maadpeal/kickstarter-analysis/blob/main/resources/C-1.png) C-1
+![](https://github.com/maadpeal/kickstarter-analysis/blob/main/resources/C-2.png) C-2
     
 - What can you conclude about the Outcomes based on Goals?
     1. Que aquellas campanas que superen los 10 mil dolares tendran muy dificil tener exito (imagen D-1)
     2. Para tener unas mejores posibilidades de exito esta bien tener una campana que se situe en el rango de los 1000 a 5000 dolares (imagen D-2)
+
+![](https://github.com/maadpeal/kickstarter-analysis/blob/main/resources/D-1.png) D-1
+![](https://github.com/maadpeal/kickstarter-analysis/blob/main/resources/D-2.png) D-2
 
 - What are some limitations of this dataset?
     1. Que podria ser muy general si una persona le interesa un pais determinado, tal vez con un dataset centrado mas en un pais en especifico con lugares concretos se podrian lograr observaciones mas interesantes y particulares
