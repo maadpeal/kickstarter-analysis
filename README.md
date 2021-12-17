@@ -31,7 +31,7 @@
     tendriamos este analisis completado(imagen A-4).
     
 ![](https://github.com/maadpeal/kickstarter-analysis/blob/main/resources/filter_category.png) A-3
-![](https://github.com/maadpeal/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png =100x20) A-4
+![](https://github.com/maadpeal/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png=100x20) A-4
 
 ### Analysis of Outcomes Based on Goals
 
