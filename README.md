@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://pandas.pydata.org/static/img/pandas.svg"><br>
-</div>
+
 # Kickstarting with Excel
 
 ## Overview of Project
@@ -22,7 +20,9 @@
     de datos (imagen A-1), que tenia como filtro los 
     anos y el parent_category y como valores el conteo de los resultados 
     y finalmente las fechas de lanzamiento como filas(imagen A-2).
-    (https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+    <div align="center">
+      <img src="https://github.com/maadpeal/kickstarter-analysis/blob/main/resources/pivot_table.png"><br>
+    </div>
 
     Se hizo el filtrado por solo theater en parent category(imagen A-3), una vez hecho eso
     realice la insercion de la grafica de lineas dando click en insertar,
