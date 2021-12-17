@@ -20,9 +20,8 @@
     de datos (imagen A-1), que tenia como filtro los 
     anos y el parent_category y como valores el conteo de los resultados 
     y finalmente las fechas de lanzamiento como filas(imagen A-2).
-    <div align="center">
-      <img src="https://github.com/maadpeal/kickstarter-analysis/blob/main/resources/pivot_table.png"><br>
-    </div>
+   
+    ![A-1](https://github.com/maadpeal/kickstarter-analysis/blob/main/resources/pivot_table.png)
 
     Se hizo el filtrado por solo theater en parent category(imagen A-3), una vez hecho eso
     realice la insercion de la grafica de lineas dando click en insertar,
