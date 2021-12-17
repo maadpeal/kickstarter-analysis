@@ -21,13 +21,17 @@
     anos y el parent_category y como valores el conteo de los resultados 
     y finalmente las fechas de lanzamiento como filas(imagen A-2).
   
-!["A-1"](https://github.com/maadpeal/kickstarter-analysis/blob/main/resources/pivot_table.png)
+![](https://github.com/maadpeal/kickstarter-analysis/blob/main/resources/pivot_table.png) A-1
+![](https://github.com/maadpeal/kickstarter-analysis/blob/main/resources/pivot_filters.png) A-2
 
     Se hizo el filtrado por solo theater en parent category(imagen A-3), una vez hecho eso
     realice la insercion de la grafica de lineas dando click en insertar,
     luego grafica de lineas y luego verificando que los ejes x y y estan en
     los lugares correctos, luego se procedio a editar los colores y finalmente
     tendriamos este analisis completado(imagen A-4).
+    
+![](https://github.com/maadpeal/kickstarter-analysis/blob/main/resources/filter_category.png) A-3
+![](https://github.com/maadpeal/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png =100x20) A-4
 
 ### Analysis of Outcomes Based on Goals
 
